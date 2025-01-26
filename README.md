@@ -25,9 +25,9 @@ Follow these steps to set up the project in your development environment:
    - Please download the dataset from the following link:
      [Dataset Download Link](https://www.dropbox.com/scl/fi/iaiiwntc4alcen8o10epp/datasets.zip?rlkey=5hymzk40z0yioe6y7if0192rt&st=vnav2hv1&dl=0)
    - Extract the contents and place them in the following directory:
-     ```
+    ```
     ./SUNNYCORE-/
-     ```
+    ```
 
 2. **Ensure the folder structure is as follows:**
    ```
